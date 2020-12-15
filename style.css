@@ -47,7 +47,6 @@ header img {
 }
 
 .home-content {
-    /* background-color: rgba(87, 87, 175, 0.678); */
     height: 100vh;
     display: flex;
     flex-direction: column;
